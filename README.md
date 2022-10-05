@@ -108,4 +108,66 @@ Number is Valid
 
 # question_3
 
+Write a program that takes an input letter and outputs it in a diamond shape. Given a letter, it prints a diamond starting with 'A', with the supplied letter at the    widest point.     
 
+Your program should satisfy the following requirements:       
+• The first row contains one 'A'.     
+• The last row contains one 'A'.      
+• All rows, except the first and last, have exactly two identical letters.    
+• The diamond is horizontally symmetric.      
+• The diamond is vertically symmetric.      
+• The diamond has a square shape (width equals height).     
+• The letters form a diamond shape.     
+• The top half has the letters in ascending order.        
+• The bottom half has the letters in descending order.      
+
+In the following examples, spaces are indicated by character “.”.       
+
+Example 1     
+Diamond for letter 'A':     
+A     
+
+Example 2       
+Diamond for letter 'C':       
+..A..       
+.B.B.       
+C...C     
+.B.B.     
+..A..     
+
+Example 3       
+Diamond for letter 'E':       
+....A....     
+...B.B...     
+..C...C..     
+.D.....D.     
+E.......E     
+.D.....D.     
+..C...C..     
+...B.B...     
+....A....     
+
+-------------------------------------------------------   
+Sample Run 1          
+Enter a Letter: 7       
+Invalid Input !       
+
+Sample Run 2      
+Enter a Letter: *     
+Invalid Input !     
+
+Sample Run 3      
+Enter a Letter: A   
+A     
+
+Sample Run 4        
+Enter a Letter: C     
+..A..     
+.B.B.     
+C...C   
+.B.B.     
+..A..     
+
+Sample Run 5        
+Enter a Letter: AC      
+Invalid Input !     
