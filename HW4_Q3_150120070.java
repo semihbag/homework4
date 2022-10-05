@@ -1,6 +1,6 @@
 // Name: Semih
-// Surname: BAğ
-//Student ID: 150120070
+// Surname: BaÄŸ
+
 
 /* Purpose: Write a program that takes an input letter and outputs it in a diamond shape.
  * Given a letter, it prints a diamond starting with 'A', with the supplied letter at the
