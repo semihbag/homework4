@@ -1,6 +1,6 @@
 // Name: Semih
-// Surname: Bað
-// Student ID: 150120070
+// Surname: BaÃ°
+
 
 /* Purpose: Write a program that calculates the invoice of each flat in an apartment building.
  * Assume that there are N flats in a building and apartment heating is the central system.
