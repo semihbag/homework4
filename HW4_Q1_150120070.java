@@ -1,5 +1,5 @@
 // Name: Semih
-// Surname: Bað
+// Surname: Bağ
 
 
 /* Purpose: Write a program that calculates the invoice of each flat in an apartment building.
